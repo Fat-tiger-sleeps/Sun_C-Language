@@ -8,3 +8,13 @@
 //
 //	return 0;
 //}
+
+int main()
+{
+	int i = 10;
+	int j = 20;
+	int m = i + j;
+	printf("%d\n", m);
+
+	return 0;
+}
